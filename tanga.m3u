@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="" tv-test="top.m3u"
+#EXTM3U
 http://live1.cl.cdn.lla.vtrplay.com/canal13hdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 #EXTINF:-1 tvg-name="TVN" tvg-logo="https://www.foromedios.com/uploads/monthly_2020_02/small.tvn2016.png.aca7a9ecda1e02e4bd6e89ee45013fc0.png"
 http://live1.cl.cdn.lla.vtrplay.com/tvnhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
@@ -11,5 +11,6 @@ http://live1.cl.cdn.lla.vtrplay.com/tntsports3hdchi/vxfmt=dp/playlist.m3u8?devic
 http://live1.cl.cdn.lla.vtrplay.com/zonalatinahdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 http://live1.cl.cdn.lla.vtrplay.com/hbo2hdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 http://live1.cl.cdn.lla.vtrplay.com/cdfhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+https://video.hardlimit.com/static/streaming-playlists/hls/451c0f6c-a797-4ea6-9d79-c745f3a1eb1c/0.m3u8?PlaylistM3UCL
 
 
